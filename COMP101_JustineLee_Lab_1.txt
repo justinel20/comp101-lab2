@@ -1,3 +1,20 @@
 Hello World.
 
+
 My name is Justine, but you can call me Jae. I am a student studying Interdisciplinary Studies in my 3rd/4th year. In my pass time I enjoy watching TV and movies, drawing, and napping. 
+
+LAB 2 QUESTION:
+You have created a GitHub repository and want to share it with your friend Bob by
+sending him the repository link. When Bob clicks the link in his web browser, some
+communication happens over the internet. Explain step by step what happens using the
+concepts of client and server. In your explanation, make sure to mention:
+
+• Which device acts as the client
+
+• Which device acts as the server 
+
+• How Bob’s browser requests the repository content
+
+• How the server responds and sends the content back to Bob
+
+Bob's web browser acts as the client to the GitHub servers when he requests the repository content, the link, and send the information wia wireless connection to Bob's screen.
